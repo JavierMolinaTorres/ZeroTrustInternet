@@ -4,7 +4,7 @@
 # Configuration
 TOOL="ddos-deflate"
 BANLIST="/usr/local/ddos/banlist.txt"
-TOKEN="MY_SUPER_SECRET_TOKEN"
+TOKEN="MY_SUPER_SECRET_TOKEN"  # Auth token, to be read by the server (if exists). If token is loaded from file, use for instance TOKEN=$(cat /etc/ddos_deflate_report_token)
 POST_URL="https://my.server.com/api/ddosdeflate-report"
 SEND_POST=0
 
