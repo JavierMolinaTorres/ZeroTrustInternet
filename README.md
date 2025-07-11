@@ -8,3 +8,6 @@ ZTI proposes a proactive approach. It offers a set of lightweight scripts that s
 Before any ban, an information process is triggered: contacting the responsible ISP to determine whether the source is a hijacked zombie machine or a deliberately criminal system. Ideally, this leads to cleanup; if not, the ISP risks losing upstream connectivity.
 
 ZTI envisions a global effort involving private actors (ISPs, datacenters) and international cybercrime authorities. The goal: an internet where safety is the default, not the exception—where going online is as safe as walking down a quiet street at night, and criminal activity is the rare outlier, not the background noise.
+
+# EDNAC (Extended Distributed NAC)
+EDNAC is a complementary, non-centralized Network Access Control system in which each node independently selects the sources of suspicious IP addresses it trusts or prefers to use. Rather than relying on a single centralized list, EDNAC enables distributed decision-making, allowing each participant to incorporate threat intelligence feeds or local detection mechanisms according to its own security policies and risk tolerance. Nodes can range from simple tables or IDS/IPS systems to complex AI-based threat analyzers or ELK stacks.
