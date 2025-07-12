@@ -31,12 +31,14 @@ How does it compare to existing systems?
 
 Unlike other threat intelligence or crowd-based security systems:
 
-Project	     Commercial ties	          Centralization	     Agent required	        Open participation
---------------------------------------------------------------------------------------------------------
-CrowdSec	   Yes (open core company)	  Semi-centralized	   Yes, own agent	        Limited by agent ecosystem
-AbuseIPDB	   Yes (paid plans)	          Centralized         	No	                  Requires API plan
-Spamhaus	   Yes (paid suervices)	      Centralized	          No	                  Access restricted or paid
-ZTI	         No, pure non-profit	      Fully decentralized	  No, system-agnostic	  Open to all, no fees
+
+Project: CrowdSec | Commercial ties: Yes (open core company) |  Centralization: Semi-centralized |  Agent required: Yes, own agent |  Open participation:  Limited by agent ecosystem
+
+Project: AbuseIPDB | Commercial ties:	Yes (paid plans)	 |  Centralization:  Centralized |  Agent required: No |  Open participation: Requires API plan
+
+Project: Spamhaus | Commercial ties: Yes (paid suervices)	 |  Centralization: Centralized |  Agent required: No |  Open participation: Access restricted or paid
+
+Project: ZTI | Commercial ties: No, pure non-profit |  Centralization: Fully decentralized |  Agent required: No, system-agnostic |  Open participation:  Open to all, no fees
 
 With ZTI:
 
