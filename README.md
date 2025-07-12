@@ -36,7 +36,7 @@ Project: CrowdSec | Commercial ties: Yes (open core company) |  Centralization: 
 
 Project: AbuseIPDB | Commercial ties:	Yes (paid plans)	 |  Centralization:  Centralized |  Agent required: No |  Open participation: Requires API plan
 
-Project: Spamhaus | Commercial ties: Yes (paid suervices)	 |  Centralization: Centralized |  Agent required: No |  Open participation: Access restricted or paid
+Project: Spamhaus | Commercial ties: Yes (paid services)	 |  Centralization: Centralized |  Agent required: No |  Open participation: Access restricted or paid
 
 Project: ZTI | Commercial ties: No, pure non-profit |  Centralization: Fully decentralized |  Agent required: No, system-agnostic |  Open participation:  Open to all, no fees
 
