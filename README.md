@@ -76,7 +76,7 @@ analyzers or ELK stacks.
 
 # How it works
 
-Each log-generating node involved in an Internet network—servers, routers, firewalls, etc.—can deliver a JSON report to remote nodes. This JSON can be anonymized for maximum privacy, using a salted hash that changes every X days (with salts shared across nodes) or more advanced homomorphic systems. Real ips are hidden using this mechanism.
+Each log-generating node or service involved in an Internet network—servers, routers, webs, firewalls, etc.— can deliver a JSON report to remote nodes. This JSON can be anonymized for maximum privacy, using a salted hash that changes every X days (with salts shared across nodes) or more advanced homomorphic systems. Real ips are hidden using this mechanism. For instance, if you are running a single web site based in Wordpress, you can get JSONs from another websites using as well this CMS and to know how the attacks are running in each moment.
 
 Each receiving node interconnects with trusted sending nodes, identified by digital signatures. Nodes are free to select their trusted sources and assign weights—for example, giving more importance to data from Google Cloud compared to a specific university, or preferring sources within the same regional network (e.g., RedIRIS).
 
